@@ -56,3 +56,6 @@ The final stage was translating the raw SQL findings into an interactive, stakeh
 ## 🚀 5. The Final Output
 The culmination of this pipeline is a fully interactive Power BI dashboard designed to answer business questions instantly.
 
+▶️ **[Watch the 30-Second Dashboard Demo Here]** https://github.com/Rohan2701/beyond-excel-steam-analysis/blob/main/Recording%202026-04-14%20022752.mp4
+
+![Dashboard Screenshot]((https://github.com/Rohan2701/beyond-excel-steam-analysis/blob/main/Screenshot%202026-04-14%20024227.png))
